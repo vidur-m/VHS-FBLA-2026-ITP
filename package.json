@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/vidur-m/VHS-FBLA-2026-ITP#readme",
   "dependencies": {
+    "@pixi/graphics-extras": "^7.4.3",
     "pixi.js": "^8.13.1"
   }
 }
